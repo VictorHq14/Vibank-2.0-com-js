@@ -1,0 +1,29 @@
+.aba1 {
+display: flex;
+justify-content: space-around;
+background-color: rgb(70, 153, 231);
+color: white;
+}
+
+.aba-valor { 
+    padding: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #b4ebe3;
+    
+}
+
+.aba2 {
+    display: flex;
+    padding: 6rem;
+    justify-content: center;
+    background-color: rgb(62, 145, 201);
+}
+
+.anuncio {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ color: white;
+ 
+}
